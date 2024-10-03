@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepk6858&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepk6858" /> </p>
 
-- 🔭 I’m currently working on **Legal Connect**
+- 🔭 I’m currently working on **LegalKonnect**
 
 - 🌱 I’m currently learning **Python**
 

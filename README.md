@@ -2,7 +2,7 @@
 
 <!--
 **sandeepk6858/sandeepk6858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Banner](https://repository-images.githubusercontent.com/866896760/18cd4960-b0c4-4a8e-b42e-bb5054510db7)
+![Banner](https://repository-images.githubusercontent.com/866896760/4921f951-1811-447f-9c70-2e0824485328)
 
 
 
